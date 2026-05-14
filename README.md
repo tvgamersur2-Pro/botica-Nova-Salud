@@ -293,15 +293,15 @@ Este proyecto es parte de un trabajo académico para el curso de Fullstack Devel
 
 ## Autor
 
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
+**[jesusluero]**
+- GitHub: https://github.com/tvgamersur2-Pro/
+- Email: tvgamersur2@gmail.com
 
 ## Agradecimientos
 
-- Instituto/Universidad [Nombre]
+- Instituto [Senati]
 - Curso: Fullstack Developer Software
-- Profesor: [Nombre del Profesor]
+- Profesor: [Mg. Fernando Miguel Pisfil Ortiz]
 
 ---
 
